@@ -1,0 +1,5 @@
+{
+  "name": "OTN Simulator",
+  "description": "An interactive Optical Transport Network simulation tool for visualizing ODU, OTU, and FEC signal processing. Designed by techiekamal, developed by CodeByArt.",
+  "requestFramePermissions": []
+}
