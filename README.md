@@ -1,10 +1,8 @@
 # 🌐 OTN Simulator
 
-<div align="center">
-
-![OTN Simulator Banner](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
-
 **An interactive Optical Transport Network (OTN) simulator for learning and visualizing telecommunications protocols**
+
+<div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
