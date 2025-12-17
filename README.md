@@ -121,16 +121,6 @@ npm --version   # Should be v8+
    npm install
    ```
 
-3. **Set up environment variables** (Optional)
-   ```bash
-   cp .env.local.example .env.local
-   ```
-   
-   Edit `.env.local` if you need to configure any API keys:
-   ```env
-   GEMINI_API_KEY=your_api_key_here
-   ```
-
 ### Running Locally
 
 **Development Mode**
@@ -302,9 +292,9 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## 🙏 Acknowledgments
 
-- **Google AI Studio** - For providing the initial project template
 - **Lucide Icons** - For the beautiful icon set
 - **React Community** - For the amazing ecosystem
+- **Vite Team** - For the blazing fast build tool
 - **OTN Standards** - ITU-T G.709 specifications
 
 ---
